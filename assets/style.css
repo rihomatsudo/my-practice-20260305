@@ -1,5 +1,15 @@
 @charset "UTF-8";
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.txt {
+    font-size: 48px;
+    color: #4fff1f;
+}
 .txt-2 {
     font-size: 48px;
-    color: #ffa216;
+    color: #ff9900;
 }
